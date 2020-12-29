@@ -20,3 +20,4 @@ also check out: https://github.com/bleeptrack/rc3-generator
 
 ![](/rocket/rocket.png)
 
+![](/rocket-text/rocket_with_text.png)
