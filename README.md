@@ -1,4 +1,6 @@
 # rc3-logos
+also check out: https://github.com/bleeptrack/rc3-generator
+
 
 ![](/logo1/logo1.png)
 
